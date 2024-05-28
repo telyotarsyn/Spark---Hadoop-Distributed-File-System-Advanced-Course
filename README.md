@@ -1,2 +1,6 @@
-# Spark---Hadoop-Distributed-File-System-Advanced-Course-
-The course project concentrated on learning Scala, Spark and Hadoop(HDFS) technologies for understanding the data science techniques
+# Spark-HDFS_course
+
+The practice project on Apache Spark for Scala and Apache Hadoop File System implementation
+
+by Islamiia Gilmanova, RCSE program student
+## GRIAT(based on KNRTU-KAI named after A.N. Tupolev & TU Ilmenau)
