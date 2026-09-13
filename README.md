@@ -1,4 +1,4 @@
-<img width="1536" height="846" alt="Copilot_20260912_231131" src="https://github.com/user-attachments/assets/3a05bbff-9dcd-451c-b580-3d7a6631a9b2" />
+![Uploading Gemini_Generated_Image_vvt754vvt754vvt7.jpg…]()
 
 # Spark-HDFS_course
 
